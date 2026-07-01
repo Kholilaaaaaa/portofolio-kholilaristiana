@@ -6,7 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
-
 # Camera raw files
 DSC*.JPG
 UR90*.JPG
